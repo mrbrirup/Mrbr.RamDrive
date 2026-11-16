@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="Mrbr.RamDrive/Mrbr.RamDrive.csproj" />
+  <Project Path="Mrbr.RamDrive.ConsoleTestApp/Mrbr.RamDrive.ConsoleTestApp.csproj" />
+  <Project Path="Mrbr.RamDrive.ConsoleTestApp.Tests/Mrbr.RamDrive.ConsoleTestApp.Tests.csproj" />
+  <Project Path="Mrbr.RamDrive.Benchmarks/Mrbr.RamDrive.Benchmarks.csproj" />
+  <Folder Name="/Solution Items/">
+    <File Path="./Solution Items/todos.md" />
+  </Folder>
+</Solution>
